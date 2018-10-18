@@ -1,0 +1,22 @@
+{
+  "name": "ACThumbnailGenerator-Swift",
+  "version": "0.1.0",
+  "summary": "A short description of ACThumbnailGenerator-Swift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Alejandro Cotilla/ACThumbnailGenerator-Swift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Alejandro Cotilla": "alejandro@floatleft.tv"
+  },
+  "source": {
+    "git": "https://github.com/Alejandro Cotilla/ACThumbnailGenerator-Swift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ACThumbnailGenerator-Swift/Classes/**/*"
+}

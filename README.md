@@ -22,7 +22,7 @@ pod 'ACThumbnailGenerator-Swift'
 
 ## Author
 
-Alejandro Cotilla, alejandro@floatleft.tv
+Alejandro Cotilla, [@acotilla91](https://twitter.com/acotilla91)
 
 ## License
 
