@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ACThumbnailGenerator-Swift_Example' do
+  pod 'ACThumbnailGenerator-Swift', :path => '../'
+
+  target 'ACThumbnailGenerator-Swift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
