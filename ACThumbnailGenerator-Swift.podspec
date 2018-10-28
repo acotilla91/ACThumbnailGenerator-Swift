@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'ACThumbnailGenerator-Swift'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Swift utility for extracting still images from remote video streams (e.g. HLS/.m3u8 streams).'
 
   s.description      = <<-DESC
