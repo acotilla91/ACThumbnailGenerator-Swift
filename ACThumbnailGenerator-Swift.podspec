@@ -14,6 +14,7 @@ ACThumbnailGenerator is an easy-to-use Swift utility for extracting still images
   s.social_media_url = 'https://twitter.com/acotilla91'
 
   s.ios.deployment_target = '8.0'
+  s.swift_version = '4.2'
 
   s.source_files = 'ACThumbnailGenerator-Swift/Classes/**/*'
 
