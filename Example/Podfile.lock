@@ -1,5 +1,5 @@
 PODS:
-  - ACThumbnailGenerator-Swift (0.1.0)
+  - ACThumbnailGenerator-Swift (1.0.0)
 
 DEPENDENCIES:
   - ACThumbnailGenerator-Swift (from `../`)
@@ -9,8 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ACThumbnailGenerator-Swift: 6736984770cbfdbb8f0446115fa26fb66606fcd9
+  ACThumbnailGenerator-Swift: a0b274d349f73f08bdbd76ede63a1b5b32694e52
 
-PODFILE CHECKSUM: c2ae6a3740232810b08c530922c1a99dbc5eb0bf
+PODFILE CHECKSUM: 767b37e528dd2f8dd6347c17b5bf6d579e0c63ee
 
 COCOAPODS: 1.5.3
