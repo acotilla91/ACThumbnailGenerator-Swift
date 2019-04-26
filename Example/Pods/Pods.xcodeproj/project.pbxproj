@@ -27,23 +27,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		16F2EA0AE9BC412DF07818F565A3FE6C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		16F2EA0AE9BC412DF07818F565A3FE6C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		1EA1CE34A3E5B7D63C31A8BA820AEFC5 /* Pods-ACThumbnailGenerator-Swift_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ACThumbnailGenerator-Swift_Example-umbrella.h"; sourceTree = "<group>"; };
-		21C8BAF8FEDF901E7BEF01A8519E47C4 /* ACThumbnailGenerator-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = "ACThumbnailGenerator-Swift.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		21C8BAF8FEDF901E7BEF01A8519E47C4 /* ACThumbnailGenerator-Swift.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = "ACThumbnailGenerator-Swift.podspec"; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		5C0FF905B6F8D3BF1742A8D0C5EE978C /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		686CAA6960992CD5FA88EC7B622E1CFA /* Pods-ACThumbnailGenerator-Swift_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ACThumbnailGenerator-Swift_Example.release.xcconfig"; sourceTree = "<group>"; };
 		6F12FC7DA40F7F3E6ACC0F4B16C36F95 /* ACThumbnailGenerator.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ACThumbnailGenerator.swift; path = "ACThumbnailGenerator-Swift/Classes/ACThumbnailGenerator.swift"; sourceTree = "<group>"; };
 		6F5F61528B3558A5E30B67A9ABFEF7AF /* ACThumbnailGenerator-Swift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "ACThumbnailGenerator-Swift.modulemap"; sourceTree = "<group>"; };
 		76EEEA84F6D180AD903BBFA8B830A7C3 /* Pods-ACThumbnailGenerator-Swift_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ACThumbnailGenerator-Swift_Example-frameworks.sh"; sourceTree = "<group>"; };
-		79C3A7FB4084DBAF283E7BA8A1085F22 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
-		842AFFFBED27D796230C9A417DF2F8D3 /* Pods_ACThumbnailGenerator_Swift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ACThumbnailGenerator_Swift_Example.framework; path = "Pods-ACThumbnailGenerator-Swift_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		79C3A7FB4084DBAF283E7BA8A1085F22 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		842AFFFBED27D796230C9A417DF2F8D3 /* Pods_ACThumbnailGenerator_Swift_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ACThumbnailGenerator_Swift_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8C7AA7D9C461BEC769304A0FF6DA4B2C /* Pods-ACThumbnailGenerator-Swift_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ACThumbnailGenerator-Swift_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9491BFC9721B0417051E984D67A29197 /* Pods-ACThumbnailGenerator-Swift_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ACThumbnailGenerator-Swift_Example-resources.sh"; sourceTree = "<group>"; };
 		94DADD355E4B8F405922791D74B24437 /* ACThumbnailGenerator-Swift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ACThumbnailGenerator-Swift-prefix.pch"; sourceTree = "<group>"; };
 		957343D9606F6C22AC320076C077EC90 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9A7AC57EC75B52C9ACB554E8CCD39F80 /* Pods-ACThumbnailGenerator-Swift_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ACThumbnailGenerator-Swift_Example.modulemap"; sourceTree = "<group>"; };
-		AC7E2AFBB5A0A7ADE38ACE8710924A01 /* ACThumbnailGenerator_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ACThumbnailGenerator_Swift.framework; path = "ACThumbnailGenerator-Swift.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		AC7E2AFBB5A0A7ADE38ACE8710924A01 /* ACThumbnailGenerator_Swift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ACThumbnailGenerator_Swift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B283B696D7622A357DC52893932DDDA1 /* Pods-ACThumbnailGenerator-Swift_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ACThumbnailGenerator-Swift_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		C530A165A107FB3E669D7F1607A8287F /* Pods-ACThumbnailGenerator-Swift_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ACThumbnailGenerator-Swift_Example-dummy.m"; sourceTree = "<group>"; };
 		D6DFF15000AFE2A371BF499E7AFDA808 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -244,14 +244,20 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0930;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1020;
+				TargetAttributes = {
+					2CCE1A1873D37850065E18D9AD464D1C = {
+						LastSwiftMigration = 1020;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
 			productRefGroup = 2EADF6269867E52DDF6D88CE0B0729ED /* Products */;
@@ -378,6 +384,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -444,6 +451,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -495,8 +503,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 4.2;
 				SYMROOT = "${SRCROOT}/../build";
 			};
